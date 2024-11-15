@@ -9,23 +9,36 @@
 }
 
 .alert {
-
+    background-color: #fff3cd;
+    border-color: #856404;
+    color: #856404;
+    color: #856404;
+    font-weight: bold;
 }
 
 .alert-heading{
+    font-size: 1.5rem;
+    color: #5a3c02;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 
 }
 
 .alert p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
 
 }
 
 .alert hr{
-
+    border-top: 2px dashed #856404;
 
 }
 
 .alert .mb-0{
-
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #6c757d;
 }
 
