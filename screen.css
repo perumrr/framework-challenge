@@ -1,6 +1,6 @@
 .container {
     font-family: 'Times New Roman', Times, serif;
-    background-color: #fef9f3;
+    background-color: #cdb597;
     padding: 20px;
     border: 2px solid #c5b358;
     border-radius: 8px;
@@ -14,7 +14,8 @@
     padding: 20px;
     font-family: 'Arial', sans-serif;
     font-size: 36px;
-    text-transform: uppercase;
+    font-style: italic;
+    
 
 }
 
