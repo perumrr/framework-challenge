@@ -13,8 +13,8 @@ body {
 }
 
 img.prompt {
-    width: 500px; 
-    height: 350px; 
+    width: 200px; 
+    height: 100px; 
     object-fit: cover; 
 }
 
