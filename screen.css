@@ -1,0 +1,31 @@
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fef9f3;
+    padding: 20px;
+    border: 2px solid #c5b358;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.alert {
+
+}
+
+.alert-heading{
+
+}
+
+.alert p {
+
+}
+
+.alert hr{
+
+
+}
+
+.alert .mb-0{
+
+}
+
