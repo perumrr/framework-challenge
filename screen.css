@@ -5,6 +5,16 @@
     border: 2px solid #c5b358;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.header{
+    background-color: #33230a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    text-transform: uppercase;
 
 }
 
