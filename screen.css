@@ -7,6 +7,11 @@
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+body {
+    background-color: hsl(37, 43%, 66%);
+
+}
+
 .header{
     background-color: #33230a;
     color: white;
