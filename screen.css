@@ -12,6 +12,12 @@ body {
 
 }
 
+img.prompt {
+    width: 500px; 
+    height: 350px; 
+    object-fit: cover; 
+}
+
 .header{
     background-color: #33230a;
     color: white;
